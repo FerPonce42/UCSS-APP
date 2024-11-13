@@ -1,0 +1,105 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Fernando Ponce\\Documents\\UCSS App\\UCSS App\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{45819F8D-4843-40BD-9CCC-98CC4ADEE055}|UCSS App\\UCSS App\\UCSS App.csproj|c:\\users\\fernando ponce\\documents\\ucss app\\ucss app\\ucss app\\ucss app\\app.xaml||{2974C621-7033-421A-B08A-11D27B021D1B}",
+      "RelativeMoniker": "D:0:0:{45819F8D-4843-40BD-9CCC-98CC4ADEE055}|UCSS App\\UCSS App\\UCSS App.csproj|solutionrelative:ucss app\\ucss app\\app.xaml||{2974C621-7033-421A-B08A-11D27B021D1B}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{45819F8D-4843-40BD-9CCC-98CC4ADEE055}|UCSS App\\UCSS App\\UCSS App.csproj|c:\\users\\fernando ponce\\documents\\ucss app\\ucss app\\ucss app\\ucss app\\assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{45819F8D-4843-40BD-9CCC-98CC4ADEE055}|UCSS App\\UCSS App\\UCSS App.csproj|solutionrelative:ucss app\\ucss app\\assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{45819F8D-4843-40BD-9CCC-98CC4ADEE055}|UCSS App\\UCSS App\\UCSS App.csproj|c:\\users\\fernando ponce\\documents\\ucss app\\ucss app\\ucss app\\ucss app\\appshell.xaml||{2974C621-7033-421A-B08A-11D27B021D1B}",
+      "RelativeMoniker": "D:0:0:{45819F8D-4843-40BD-9CCC-98CC4ADEE055}|UCSS App\\UCSS App\\UCSS App.csproj|solutionrelative:ucss app\\ucss app\\appshell.xaml||{2974C621-7033-421A-B08A-11D27B021D1B}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{45819F8D-4843-40BD-9CCC-98CC4ADEE055}|UCSS App\\UCSS App\\UCSS App.csproj|c:\\users\\fernando ponce\\documents\\ucss app\\ucss app\\ucss app\\ucss app\\gettingstarted.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{45819F8D-4843-40BD-9CCC-98CC4ADEE055}|UCSS App\\UCSS App\\UCSS App.csproj|solutionrelative:ucss app\\ucss app\\gettingstarted.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E6F1A3EE-3ACB-49A0-A721-F427C22BC13F}|UCSS App\\UCSS App.Android\\UCSS App.Android.csproj|c:\\users\\fernando ponce\\documents\\ucss app\\ucss app\\ucss app\\ucss app.android\\resources\\resource.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E6F1A3EE-3ACB-49A0-A721-F427C22BC13F}|UCSS App\\UCSS App.Android\\UCSS App.Android.csproj|solutionrelative:ucss app\\ucss app.android\\resources\\resource.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Resource.designer.cs",
+              "DocumentMoniker": "C:\\Users\\Fernando Ponce\\Documents\\UCSS App\\UCSS App\\UCSS App\\UCSS App.Android\\Resources\\Resource.designer.cs",
+              "RelativeDocumentMoniker": "UCSS App\\UCSS App.Android\\Resources\\Resource.designer.cs",
+              "ToolTip": "C:\\Users\\Fernando Ponce\\Documents\\UCSS App\\UCSS App\\UCSS App\\UCSS App.Android\\Resources\\Resource.designer.cs",
+              "RelativeToolTip": "UCSS App\\UCSS App.Android\\Resources\\Resource.designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-13T19:41:27.603Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "GettingStarted.txt",
+              "DocumentMoniker": "C:\\Users\\Fernando Ponce\\Documents\\UCSS App\\UCSS App\\UCSS App\\UCSS App\\GettingStarted.txt",
+              "RelativeDocumentMoniker": "UCSS App\\UCSS App\\GettingStarted.txt",
+              "ToolTip": "C:\\Users\\Fernando Ponce\\Documents\\UCSS App\\UCSS App\\UCSS App\\UCSS App\\GettingStarted.txt",
+              "RelativeToolTip": "UCSS App\\UCSS App\\GettingStarted.txt",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2024-11-13T19:41:02.985Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AssemblyInfo.cs",
+              "DocumentMoniker": "C:\\Users\\Fernando Ponce\\Documents\\UCSS App\\UCSS App\\UCSS App\\UCSS App\\AssemblyInfo.cs",
+              "RelativeDocumentMoniker": "UCSS App\\UCSS App\\AssemblyInfo.cs",
+              "ToolTip": "C:\\Users\\Fernando Ponce\\Documents\\UCSS App\\UCSS App\\UCSS App\\UCSS App\\AssemblyInfo.cs",
+              "RelativeToolTip": "UCSS App\\UCSS App\\AssemblyInfo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-13T19:41:01.049Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "App.xaml",
+              "DocumentMoniker": "C:\\Users\\Fernando Ponce\\Documents\\UCSS App\\UCSS App\\UCSS App\\UCSS App\\App.xaml",
+              "RelativeDocumentMoniker": "UCSS App\\UCSS App\\App.xaml",
+              "ToolTip": "C:\\Users\\Fernando Ponce\\Documents\\UCSS App\\UCSS App\\UCSS App\\UCSS App\\App.xaml",
+              "RelativeToolTip": "UCSS App\\UCSS App\\App.xaml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAABIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-11-13T19:40:55.192Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AppShell.xaml",
+              "DocumentMoniker": "C:\\Users\\Fernando Ponce\\Documents\\UCSS App\\UCSS App\\UCSS App\\UCSS App\\AppShell.xaml",
+              "RelativeDocumentMoniker": "UCSS App\\UCSS App\\AppShell.xaml",
+              "ToolTip": "C:\\Users\\Fernando Ponce\\Documents\\UCSS App\\UCSS App\\UCSS App\\UCSS App\\AppShell.xaml",
+              "RelativeToolTip": "UCSS App\\UCSS App\\AppShell.xaml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-11-13T19:40:56.585Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

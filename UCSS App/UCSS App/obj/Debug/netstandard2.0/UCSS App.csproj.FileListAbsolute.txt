@@ -1,0 +1,20 @@
+C:\Users\Fernando Ponce\Documents\UCSS App\UCSS App\UCSS App\UCSS App\bin\Debug\netstandard2.0\UCSS App.deps.json
+C:\Users\Fernando Ponce\Documents\UCSS App\UCSS App\UCSS App\UCSS App\bin\Debug\netstandard2.0\UCSS App.dll
+C:\Users\Fernando Ponce\Documents\UCSS App\UCSS App\UCSS App\UCSS App\bin\Debug\netstandard2.0\ref\UCSS App.dll
+C:\Users\Fernando Ponce\Documents\UCSS App\UCSS App\UCSS App\UCSS App\bin\Debug\netstandard2.0\UCSS App.pdb
+C:\Users\Fernando Ponce\Documents\UCSS App\UCSS App\UCSS App\UCSS App\obj\Debug\netstandard2.0\UCSS App.csproj.AssemblyReference.cache
+C:\Users\Fernando Ponce\Documents\UCSS App\UCSS App\UCSS App\UCSS App\obj\Debug\netstandard2.0\UCSS App.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Fernando Ponce\Documents\UCSS App\UCSS App\UCSS App\UCSS App\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\Fernando Ponce\Documents\UCSS App\UCSS App\UCSS App\UCSS App\obj\Debug\netstandard2.0\AppShell.xaml.g.cs
+C:\Users\Fernando Ponce\Documents\UCSS App\UCSS App\UCSS App\UCSS App\obj\Debug\netstandard2.0\Views\AboutPage.xaml.g.cs
+C:\Users\Fernando Ponce\Documents\UCSS App\UCSS App\UCSS App\UCSS App\obj\Debug\netstandard2.0\Views\ItemDetailPage.xaml.g.cs
+C:\Users\Fernando Ponce\Documents\UCSS App\UCSS App\UCSS App\UCSS App\obj\Debug\netstandard2.0\Views\ItemsPage.xaml.g.cs
+C:\Users\Fernando Ponce\Documents\UCSS App\UCSS App\UCSS App\UCSS App\obj\Debug\netstandard2.0\Views\LoginPage.xaml.g.cs
+C:\Users\Fernando Ponce\Documents\UCSS App\UCSS App\UCSS App\UCSS App\obj\Debug\netstandard2.0\Views\NewItemPage.xaml.g.cs
+C:\Users\Fernando Ponce\Documents\UCSS App\UCSS App\UCSS App\UCSS App\obj\Debug\netstandard2.0\UCSS App.AssemblyInfoInputs.cache
+C:\Users\Fernando Ponce\Documents\UCSS App\UCSS App\UCSS App\UCSS App\obj\Debug\netstandard2.0\UCSS App.AssemblyInfo.cs
+C:\Users\Fernando Ponce\Documents\UCSS App\UCSS App\UCSS App\UCSS App\obj\Debug\netstandard2.0\UCSS App.csproj.CoreCompileInputs.cache
+C:\Users\Fernando Ponce\Documents\UCSS App\UCSS App\UCSS App\UCSS App\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\Fernando Ponce\Documents\UCSS App\UCSS App\UCSS App\UCSS App\obj\Debug\netstandard2.0\UCSS App.dll
+C:\Users\Fernando Ponce\Documents\UCSS App\UCSS App\UCSS App\UCSS App\obj\Debug\netstandard2.0\refint\UCSS App.dll
+C:\Users\Fernando Ponce\Documents\UCSS App\UCSS App\UCSS App\UCSS App\obj\Debug\netstandard2.0\UCSS App.pdb
