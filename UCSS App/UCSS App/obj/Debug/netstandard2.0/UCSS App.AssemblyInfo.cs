@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("UCSS App")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+8636a6a044238f008d5520de792eeed9e40ef734")]
 [assembly: System.Reflection.AssemblyProductAttribute("UCSS App")]
 [assembly: System.Reflection.AssemblyTitleAttribute("UCSS App")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

@@ -7,10 +7,11 @@
     -->
 <manifest xmlns:android="http://schemas.android.com/apk/res/android" android:versionCode="1" android:versionName="1.0" package="com.companyname.ucss_app">
   <uses-sdk android:minSdkVersion="21" android:targetSdkVersion="33" />
+  <!-- Permiso de red aa-->
+  <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
   <uses-permission android:name="android.permission.INTERNET" />
   <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
-  <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
-  <application android:label="UCSS_App.Android" android:theme="@style/MainTheme" android:name="android.app.Application" android:allowBackup="true" android:icon="@mipmap/icon" android:debuggable="true" android:extractNativeLibs="true">
+  <application android:label="UCSS App" android:icon="@mipmap/icon" android:theme="@style/MainTheme" android:name="android.app.Application" android:allowBackup="true" android:debuggable="true" android:extractNativeLibs="true">
     <activity android:configChanges="orientation|smallestScreenSize|screenLayout|screenSize|uiMode" android:icon="@mipmap/icon" android:label="UCSS_App" android:theme="@style/MainTheme" android:name="crc646b9dae708a5026bb.MainActivity" android:exported="true">
       <intent-filter>
         <action android:name="android.intent.action.MAIN" />
